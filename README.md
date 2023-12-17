@@ -62,6 +62,12 @@ We create a new **Secret** for storing the **AZURE_CREDENTIALS**:
 
 ## 4. Github actions main.yaml file
 
+We select the **Actions** button in the Github repository and we enter the **yaml**
+
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/a074e10b-7836-4631-80e3-7391562cb7f7)
+
+Now we enter the **main.yml** file source code
+
 ```yaml 
 name: Azure C# Application
 
@@ -100,7 +106,11 @@ jobs:
       run: dotnet run
 ```
 
+We confirm the main.yaml fiel execution was succeeded
 
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/1fba1cc7-9ebd-435e-a806-6bdbc9b0fc11)
+
+## 5. Go to Azure Pora
 
 
 
