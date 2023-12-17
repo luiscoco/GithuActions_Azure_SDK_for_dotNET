@@ -43,10 +43,18 @@ In the Github repo select "**Settings**" option and then "**Secrets and variable
 
 We create a new **Secret** for storing the **AZURE_CREDENTIALS**:
 
-```json
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/4578995c-40f5-4420-a35c-f28544c44434)
 
+```json
+{
+  "clientId": "b47e48b4-895f-4bd7-818e-2da0deb8cd0c",
+  "clientSecret": "Bhd8Q~OY7xS.C0gQ5~yXQu4xjZZQChyKL9yqnb0I",
+  "subscriptionId": "846901e6-da09-45c8-98ca-7cca2353ff0e",
+  "tenantId": "e099cebd-5eea-41a3-88db-bcb9a9cba83e"
+}
 ```
 
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/9e8bf2af-317e-492c-a3c1-03f354a30eff)
 
 ## 4. Github actions main.yaml file
 
