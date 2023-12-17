@@ -13,11 +13,11 @@ Run this command for getting the Azure Credentials:
 ```
 az ad sp create-for-rbac --name "myserviceprincipalluis" ^
 --role contributor ^
---scopes /subscriptions/846901e6-da09-45c8-98ca-7cca2353ff0e ^
+--scopes /subscriptions/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX ^
 --sdk-auth
 ```
 
-![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET_/assets/32194879/4cb352d6-79de-420b-9087-07520bc754c7)
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/dffcd99a-5c37-48ea-95e9-0e0aa3ff436e)
 
 We verify the above command in Azure Portal: 
 
