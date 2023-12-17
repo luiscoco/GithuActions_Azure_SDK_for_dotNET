@@ -37,8 +37,11 @@ For creating a new Secret we click in the "**Client Credential**" link
 
 ## 3. We create the Github repository secret for storing the AZURE_CREDENTIALS
 
+In the Github repo select "**Settings**" option and then "**Secrets and variables**" 
 
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/9c620941-61bb-40c0-8fe0-84e77aa84ff3)
 
+We create a new 
 
 
 ## 4. Github actions main.yaml file
