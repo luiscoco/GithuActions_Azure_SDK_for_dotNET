@@ -31,9 +31,13 @@ For creating a new Secret we click in the "**Client Credential**" link
 
 ![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET_/assets/32194879/b5d93270-74dd-451e-a724-b0db2bb6838e)
 
+We press "**New client secret**"  in  for creating a new Secret:
 
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/0fa9e059-4f8c-4eb6-a0aa-f8af2a629343)
 
+We also have to obtin the **subscriptionId**, in the Azure Portal we navigate to the Subscription service
 
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/1141663f-b614-4ac9-86ca-c9c117797ffb)
 
 ## 3. We create the Github repository secret for storing the AZURE_CREDENTIALS
 
