@@ -1,5 +1,7 @@
 # GithubActions: How to create from Github an Azure ResourceGroup with Azure SDK for .NET
 
+With this simple C# application, I would like to show you how to create a **IaC (Infrastructure as Code)** solution combining **Github actions** workflow and **Azure SDK for .NET**
+
 ## 1. Create Azure Resource Group with Azure SDK for .NET
 
 This section is explained in the following Github repo: https://github.com/luiscoco/Azure_SDK_Sample1_CreateResourceGroup
@@ -110,8 +112,8 @@ We confirm the main.yaml fiel execution was succeeded
 
 ![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/1fba1cc7-9ebd-435e-a806-6bdbc9b0fc11)
 
-## 5. Go to Azure Pora
+## 5. Navigate to ResourceGroups in Azure Portal
 
+We verify the ResourceGroup was created
 
-
-
+![image](https://github.com/luiscoco/GithuActions_Azure_SDK_for_dotNET/assets/32194879/b0b69365-923c-4435-868c-8799cb67948f)
